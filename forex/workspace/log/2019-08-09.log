@@ -1,0 +1,585 @@
+----------------------
+capital: 200
+opening: 105.61
+closing: 105.608
+duration: 0:00:02.419793
+trend: short
+performance: 0.0567777641837437
+(average performance, point/s)
+profit: 0.11361230613167114
+----------------------
+capital: 200.11361230613167
+opening: 105.608
+closing: 105.612
+duration: 0:00:03.602744
+trend: long
+performance: 0.07576066281091862
+(average performance, point/s)
+profit: 0.22735774909556677
+----------------------
+capital: 200.34097005522725
+opening: 105.608
+closing: 105.61
+duration: 0:00:03.629377
+trend: long
+performance: 0.03792272784510558
+(average performance, point/s)
+profit: 0.11380610626316183
+----------------------
+capital: 200.4547761614904
+opening: 105.608
+closing: 105.61
+duration: 0:00:01.202591
+trend: long
+performance: 0.11375806775925262
+(average performance, point/s)
+profit: 0.11387182582701186
+----------------------
+capital: 200.5686479873174
+opening: 105.608
+closing: 105.61
+duration: 0:00:01.203204
+trend: long
+performance: 0.11382167392684532
+(average performance, point/s)
+profit: 0.11393549560077215
+----------------------
+capital: 200.68258348291818
+opening: 105.608
+closing: 105.61
+duration: 0:00:01.206430
+trend: long
+performance: 0.1138844066770152
+(average performance, point/s)
+profit: 0.11399829108369221
+----------------------
+capital: 200.79658177400188
+opening: 105.608
+closing: 105.61
+duration: 0:00:01.206037
+trend: long
+performance: 0.1139490990260818
+(average performance, point/s)
+profit: 0.11406304812510787
+----------------------
+capital: 200.91064482212698
+opening: 105.61
+closing: 105.608
+duration: 0:00:01.218072
+trend: short
+performance: 0.1140138281238144
+(average performance, point/s)
+profit: 0.1141278419519382
+----------------------
+capital: 201.0247726640789
+opening: 105.608
+closing: 105.61
+duration: 0:00:01.211959
+trend: long
+performance: 0.11407859399108823
+(average performance, point/s)
+profit: 0.11419267258507931
+----------------------
+capital: 201.138965336664
+opening: 105.61
+closing: 105.608
+duration: 0:00:01.232180
+trend: short
+performance: 0.11414532608297022
+(average performance, point/s)
+profit: 0.11425947140905318
+----------------------
+capital: 201.25322480807304
+opening: 105.61
+closing: 105.608
+duration: 0:00:01.206095
+trend: short
+performance: 0.11421016774405875
+(average performance, point/s)
+profit: 0.11432437791180279
+----------------------
+capital: 201.36754918598484
+opening: 105.608
+closing: 105.61
+duration: 0:00:01.199586
+trend: long
+performance: 0.11427601207718195
+(average performance, point/s)
+profit: 0.11439028808925912
+----------------------
+capital: 201.4819394740741
+opening: 105.61
+closing: 105.608
+duration: 0:00:02.406997
+trend: short
+performance: 0.05719903520901935
+(average performance, point/s)
+profit: 0.11445526945324772
+----------------------
+capital: 201.59639474352736
+opening: 105.61
+closing: 105.608
+duration: 0:00:07.258892
+trend: short
+performance: 0.016357704289532066
+(average performance, point/s)
+profit: 0.114520287731014
+----------------------
+capital: 201.71091503125837
+opening: 105.608
+closing: 105.612
+duration: 0:00:04.879313
+trend: long
+performance: 0.0572783518837928
+(average performance, point/s)
+profit: 0.22917068588705503
+----------------------
+capital: 201.94008571714542
+opening: 105.608
+closing: 105.606
+duration: 0:00:01.210711
+trend: long
+performance: -0.11460286357166975
+(average performance, point/s)
+profit: -0.11471746643524142
+----------------------
+capital: 201.82536825071017
+opening: 105.606
+closing: 105.603
+duration: 0:00:04.825077
+trend: short
+performance: 0.042983865824738655
+(average performance, point/s)
+profit: 0.17197844716477936
+----------------------
+capital: 201.99734669787495
+opening: 105.613
+closing: 105.608
+duration: 0:00:01.210459
+trend: short
+performance: 0.286581132703003
+(average performance, point/s)
+profit: 0.286867713835706
+----------------------
+capital: 202.28421441171065
+opening: 105.613
+closing: 105.608
+duration: 0:00:01.207402
+trend: short
+performance: 0.28698812257544876
+(average performance, point/s)
+profit: 0.2872751106980242
+----------------------
+capital: 202.57148952240868
+opening: 105.612
+closing: 105.608
+duration: 0:00:02.403217
+trend: short
+performance: 0.11501572658749483
+(average performance, point/s)
+profit: 0.23014646890157714
+----------------------
+capital: 202.80163599131026
+opening: 105.608
+closing: 105.612
+duration: 0:00:01.204630
+trend: long
+performance: 0.23017398485757568
+(average performance, point/s)
+profit: 0.23040415884243323
+----------------------
+capital: 203.0320401501527
+opening: 105.608
+closing: 105.61
+duration: 0:00:07.250766
+trend: long
+performance: 0.016473505461657146
+(average performance, point/s)
+profit: 0.11533101173706169
+----------------------
+capital: 203.14737116188977
+opening: 105.61
+closing: 105.608
+duration: 0:00:01.201740
+trend: short
+performance: 0.11528433082592214
+(average performance, point/s)
+profit: 0.11539961515674806
+----------------------
+capital: 203.2627707770465
+opening: 105.61
+closing: 105.608
+duration: 0:00:01.207154
+trend: short
+performance: 0.11534981908370676
+(average performance, point/s)
+profit: 0.11546516890279045
+----------------------
+capital: 203.3782359459493
+opening: 105.61
+closing: 105.608
+duration: 0:00:01.209502
+trend: short
+performance: 0.11541534454266064
+(average performance, point/s)
+profit: 0.1155307598872033
+----------------------
+capital: 203.49376670583652
+opening: 105.61
+closing: 105.608
+duration: 0:00:03.598077
+trend: short
+performance: 0.038519289613842114
+(average performance, point/s)
+profit: 0.11559638813114019
+----------------------
+capital: 203.60936309396766
+opening: 105.611
+closing: 105.618
+duration: 0:00:06.036107
+trend: long
+performance: 0.06745530944814379
+(average performance, point/s)
+profit: 0.40479931199831093
+----------------------
+capital: 204.01416240596598
+opening: 105.618
+closing: 105.612
+duration: 0:00:02.414108
+trend: short
+performance: 0.17374345707580832
+(average performance, point/s)
+profit: 0.3476606576086924
+----------------------
+capital: 204.36182306357466
+opening: 105.618
+closing: 105.612
+duration: 0:00:01.202284
+trend: short
+performance: 0.34790520114455464
+(average performance, point/s)
+profit: 0.34825310634569917
+----------------------
+capital: 204.71007616992037
+opening: 105.612
+closing: 105.618
+duration: 0:00:02.406392
+trend: long
+performance: 0.17433316757185036
+(average performance, point/s)
+profit: 0.34884066831127253
+----------------------
+capital: 205.05891683823165
+opening: 105.612
+closing: 105.618
+duration: 0:00:02.418282
+trend: long
+performance: 0.17463467143905484
+(average performance, point/s)
+profit: 0.3494439775495487
+----------------------
+capital: 205.4083608157812
+opening: 105.618
+closing: 105.611
+duration: 0:00:01.208885
+trend: short
+performance: 0.40797141057739156
+(average performance, point/s)
+profit: 0.4083793819879689
+----------------------
+capital: 200
+opening: 105.62
+closing: 105.627
+duration: 0:00:01.207472
+trend: short
+performance: -0.3971786864416955
+(average performance, point/s)
+profit: -0.3975758651281372
+----------------------
+capital: 199.60242413487185
+opening: 105.627
+closing: 105.62
+duration: 0:00:01.192304
+trend: long
+performance: -0.3963962204456555
+(average performance, point/s)
+profit: -0.3967926166661011
+----------------------
+capital: 199.20563151820576
+opening: 105.62
+closing: 105.63
+duration: 0:00:02.461506
+trend: short
+performance: -0.28271134975808754
+(average performance, point/s)
+profit: -0.5657054108659332
+----------------------
+capital: 198.63992610733982
+opening: 105.621
+closing: 105.625
+duration: 0:00:03.598308
+trend: short
+performance: -0.07518879744228103
+(average performance, point/s)
+profit: -0.22564158112428537
+----------------------
+capital: 198.41428452621554
+opening: 105.625
+closing: 105.62
+duration: 0:00:02.398081
+trend: long
+performance: -0.14079896388861252
+(average performance, point/s)
+profit: -0.2817387267411136
+----------------------
+capital: 198.13254579947443
+opening: 105.62
+closing: 105.625
+duration: 0:00:06.010799
+trend: short
+performance: -0.04688196489252244
+(average performance, point/s)
+profit: -0.2813386713200272
+----------------------
+capital: 197.8512071281544
+opening: 105.625
+closing: 105.62
+duration: 0:00:01.210672
+trend: long
+performance: -0.28065852543293573
+(average performance, point/s)
+profit: -0.28093918395836864
+----------------------
+capital: 197.57026794419605
+opening: 105.625
+closing: 105.62
+duration: 0:00:01.208940
+trend: long
+performance: -0.28026000384567545
+(average performance, point/s)
+profit: -0.2805402638495211
+----------------------
+capital: 197.28972768034652
+opening: 105.625
+closing: 105.62
+duration: 0:00:01.191340
+trend: long
+performance: -0.27985495332549015
+(average performance, point/s)
+profit: -0.2801348082788156
+----------------------
+capital: 197.0095928720677
+opening: 105.625
+closing: 105.62
+duration: 0:00:07.208906
+trend: long
+performance: -0.03995740155295485
+(average performance, point/s)
+profit: -0.27974176827223696
+----------------------
+capital: 196.72985110379548
+opening: 105.62
+closing: 105.625
+duration: 0:00:02.404888
+trend: short
+performance: -0.1396024746590194
+(average performance, point/s)
+profit: -0.2793445517926978
+----------------------
+capital: 196.4505065520028
+opening: 105.625
+closing: 105.62
+duration: 0:00:02.398461
+trend: long
+performance: -0.13940542559202934
+(average performance, point/s)
+profit: -0.27895025660965067
+----------------------
+capital: 196.17155629539315
+opening: 105.62
+closing: 105.625
+duration: 0:00:01.201885
+trend: short
+performance: -0.2782758847970379
+(average performance, point/s)
+profit: -0.2785541606818349
+----------------------
+capital: 195.8930021347113
+opening: 105.625
+closing: 105.62
+duration: 0:00:01.194900
+trend: long
+performance: -0.2778807464447127
+(average performance, point/s)
+profit: -0.2781586271911574
+----------------------
+capital: 195.61484350752016
+opening: 105.62
+closing: 105.625
+duration: 0:00:01.209704
+trend: short
+performance: -0.27748616916981467
+(average performance, point/s)
+profit: -0.27776365533898445
+----------------------
+capital: 195.33707985218118
+opening: 105.62
+closing: 105.625
+duration: 0:00:03.604421
+trend: short
+performance: -0.0924256062405253
+(average performance, point/s)
+profit: -0.2773692443278164
+----------------------
+capital: 195.05971060785336
+opening: 105.625
+closing: 105.62
+duration: 0:00:01.202905
+trend: long
+performance: -0.27669869466661956
+(average performance, point/s)
+profit: -0.2769753933612861
+----------------------
+capital: 194.78273521449208
+opening: 105.62
+closing: 105.625
+duration: 0:00:03.242494
+trend: short
+performance: -0.0921633127771267
+(average performance, point/s)
+profit: -0.2765821016441572
+----------------------
+capital: 194.50615311284793
+opening: 105.62
+closing: 105.625
+duration: 0:00:01.197881
+trend: short
+performance: -0.275913454927395
+(average performance, point/s)
+profit: -0.2761893683823224
+----------------------
+capital: 194.2299637444656
+opening: 105.625
+closing: 105.618
+duration: 0:00:07.240468
+trend: long
+performance: -0.055152957986710216
+(average performance, point/s)
+profit: -0.38612585886495826
+----------------------
+capital: 193.84383788560064
+opening: 105.618
+closing: 105.625
+duration: 0:00:02.428305
+trend: short
+performance: -0.1925776746541139
+(average performance, point/s)
+profit: -0.3853479269828819
+----------------------
+capital: 193.45848995861775
+opening: 105.625
+closing: 105.618
+duration: 0:00:04.801112
+trend: long
+performance: -0.09612144023621023
+(average performance, point/s)
+profit: -0.3845818823850772
+----------------------
+capital: 193.07390807623267
+opening: 105.618
+closing: 105.625
+duration: 0:00:01.201063
+trend: short
+performance: -0.3834305037057537
+(average performance, point/s)
+profit: -0.3838139342094594
+----------------------
+capital: 192.6900941420232
+opening: 105.618
+closing: 105.625
+duration: 0:00:02.421775
+trend: short
+performance: -0.19142490498697678
+(average performance, point/s)
+profit: -0.38304123487894054
+----------------------
+capital: 192.30705290714428
+opening: 105.618
+closing: 105.625
+duration: 0:00:01.204166
+trend: short
+performance: -0.38191154128344945
+(average performance, point/s)
+profit: -0.38229345282473287
+----------------------
+capital: 191.92475945431954
+opening: 105.618
+closing: 105.627
+duration: 0:00:01.218249
+trend: short
+performance: -0.4900529917203173
+(average performance, point/s)
+profit: -0.4905430447120376
+----------------------
+capital: 191.4342164096075
+opening: 105.618
+closing: 105.624
+duration: 0:00:01.197241
+trend: short
+performance: -0.32588074192324273
+(average performance, point/s)
+profit: -0.3262066226651659
+----------------------
+capital: 191.10800978694235
+opening: 105.617
+closing: 105.624
+duration: 0:00:02.413037
+trend: short
+performance: -0.18985971663535736
+(average performance, point/s)
+profit: -0.37990929298735004
+----------------------
+capital: 190.728100493955
+opening: 105.624
+closing: 105.617
+duration: 0:00:01.215551
+trend: long
+performance: -0.37877528472699296
+(average performance, point/s)
+profit: -0.3791540600117199
+----------------------
+capital: 190.34894643394327
+opening: 105.624
+closing: 105.617
+duration: 0:00:01.192041
+trend: long
+performance: -0.37802230608008985
+(average performance, point/s)
+profit: -0.3784003283861699
+----------------------
+capital: 189.9705461055571
+opening: 105.624
+closing: 105.617
+duration: 0:00:07.296441
+trend: long
+performance: -0.053942021872035645
+(average performance, point/s)
+profit: -0.3776480951261216
+----------------------
+capital: 189.59289801043099
+opening: 105.617
+closing: 105.624
+duration: 0:00:03.630379
+trend: short
+performance: -0.1255896472379809
+(average performance, point/s)
+profit: -0.37689453136118073
+----------------------
+capital: 200
+opening: 105.639
+closing: 105.634
+duration: 0:00:08.397122
+trend: long
+performance: -0.03548932840858967
+(average performance, point/s)
+profit: -0.28395011659712593

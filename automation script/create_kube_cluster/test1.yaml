@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: test
+  namespace: kafka
+  labels: 
+    env: test
+spec:
+  nodeSelector:
+    beta.kubernetes.io/arch: amd64 
+  containers:
+  - name: test
+    image: solsson/kafka:2.3.0@sha256:b59603a8c0645f792fb54e9571500e975206352a021d6a116b110945ca6c3a1d
+    imagePullPolicy: IfNotPresent
+    tty: true
