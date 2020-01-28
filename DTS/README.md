@@ -22,8 +22,14 @@ The image above shows the structure of this system. Its core is Kafka. Here I us
 
 # Usage
 
+start the service
+
 ```
 kubectl apply -k .
 ```
 
+stop the service
 
+```
+kubectl delete -k .
+```
