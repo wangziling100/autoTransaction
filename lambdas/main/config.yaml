@@ -1,0 +1,10 @@
+AppName: TransactionMain # app name
+AppPath: transaction-main # app path
+Handler: handler # code entry point
+Timeout: 30 # max. running time
+Variables: # env variables
+  - k1:v1
+  - k2:v2
+Region: eu-central-1
+Version: 0.1
+S3: "aws-sam-cli-managed-default-samclisourcebucket-161lv729ydotn" # your S3 bucket

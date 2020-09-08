@@ -1,0 +1,10 @@
+{
+    "actions":[
+        "cd transaction-main && yarn install",
+        "cd transaction-main && yarn test",
+        "cd transaction-main && rm -r test",
+        "sam build",
+        "sam local invoke \"TransactionMainFunction\" -e events/event.json --env-vars env.json",
+        "sam deploy"
+    ]
+}
