@@ -1,2 +1,0 @@
-bin/kafka-console-producer.sh --broker-list bootstrap.kafka.svc.cluster.local:9092 --topic test
-bin/kafka-console-consumer.sh --bootstrap-server bootstrap.kafka.svc.cluster.local:9092 --topic test

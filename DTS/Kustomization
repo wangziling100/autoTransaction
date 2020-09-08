@@ -1,7 +1,0 @@
-resources:
-- 00-namespace.yml
-bases:
-- variants/scale-3-5
-patchesStrategicMerge:
-- local_test/kafka.yaml
-- local_test/zookeeper.yaml
