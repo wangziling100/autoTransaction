@@ -8,3 +8,5 @@ create_user.sh
 del_sec.sh
 new_sec.sh
 gen_encrypted.py
+test1.js
+test2.js
